@@ -140,7 +140,7 @@ A: download the [ptb client](https://discord.com/api/downloads/distributions/app
 ## Complete Discord Quest (PER)
  
 > [!NOTE]
-> Roye noskhe web ham ghabel estefade hast!
+> Roye noskhe web ghabel estefade nist!
 > 
 
 
